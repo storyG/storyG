@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ShihYu Gu (@storyG)
 - 👀 I’m interested in making things and programming is my toolbox.
-- 🌱 I’m currently learning Django to build a UWECE Degree Progress Web Application.
+- 🌱 I’m currently learning Django and cooperate with UWECE to build a Degree Progress Web Application.
 - 📫 How to reach me: frank40609@gmail.com
 
 <!---
